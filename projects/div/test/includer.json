@@ -1,0 +1,12 @@
+{
+  "includes": [
+    {
+      "name": "A",
+      "suffix": "ded"
+    },
+    {
+      "name": "B",
+      "suffix": "ded"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "DIV_TAG_MACRO_BEGIN": "#macro_begin:",
+  "DIV_TAG_MACRO_END": "#macro_end",
+  "DIV_TAG_COMMENT_BEGIN": "/*{",
+  "DIV_TAG_COMMENT_END": "}*/"
+}

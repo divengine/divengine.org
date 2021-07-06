@@ -1,0 +1,9 @@
+{
+
+	person: {
+		name: 'string' ,
+		age: 'integer' ,
+		country: 'enum'
+	}
+
+}
