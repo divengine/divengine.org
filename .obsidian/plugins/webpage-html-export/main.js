@@ -54746,7 +54746,7 @@ var GenHelper = class {
 		<base href="${relativePaths.rootPath}/">
 		<meta id="root-path" root-path="${relativePaths.rootPath}/">
 
-		<link rel="icon" sizes="96x96" href="https://publish-01.obsidian.md/access/f786db9fac45774fa4f0d8112e232d67/favicon-96x96.png">
+		<link rel="icon" sizes="96x96" href="https://divengine.com/sites/default/files/divengine-white-over-blue.png">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, minimum-scale=1.0, maximum-scale=5.0">
 		<meta charset="UTF-8">
 		`;
