@@ -6,7 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabReadme"
+      "FarImage",
+      "FarBookmark",
+      "FasFileVideo",
+      "FasBook",
+      "FasBlog"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -27,9 +31,23 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
   },
-  "Documentation/Div PHP Template Engine/Mechanisms.md": "FabReadme"
+  "Documentation/Documentation.md": "FabReadme",
+  "Videos": "FasVideo",
+  "Tools": "FasGear",
+  "Documentation": "FabReadme",
+  "Blog": "FasBlog",
+  "Documentation/Div PHP Template Engine": "FasBook",
+  "Documentation/Div PHP ORM": "FasBook",
+  "Documentation/Div PHP Matrix": "FasBook",
+  "Documentation/Div PHP Enum Solution": "FasBook",
+  "Documentation/Div PHP Ajax Mapping": "FasBook",
+  "Documentation/Div PHP Ways": "FasBook",
+  "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md": "FasFileVideo",
+  "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md": "FarBookmark",
+  "Blog/images": "FarImage",
+  "Blog/Blog.md": "FasBlog"
 }

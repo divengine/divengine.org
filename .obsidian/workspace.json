@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c127296f6a093fc0",
+        "id": "00675d77f0c55ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "84b45da726048116",
+            "id": "8b8af81c974f3341",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -140,10 +140,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "84b45da726048116",
+  "active": "8b8af81c974f3341",
   "lastOpenFiles": [
-    "index.canvas",
+    "Documentation/Div PHP Enum Solution/Example of Div PHP Enum.md",
+    "Documentation/Div PHP Enum Solution/Div PHP Enum Solution.md",
+    "Documentation/Div PHP Enum Solution/Analogy with Java.md",
+    "Documentation/Div PHP Ajax Mapping/Div PHP Ajax Mapping.md",
+    "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md",
+    "Blog/Blog.md",
+    "Welcome.canvas",
+    "Videos/Videos.md",
     "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md",
+    "Tools/Tools.md",
     "Tools/Dialector.md",
     "Documentation/Documentation.md",
     "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md",
@@ -161,15 +169,10 @@
     "Documentation/Div PHP Template Engine/Ignore specific variables (the third parameter of constructor).md",
     "Documentation/Div PHP Template Engine/Features of Div PHP Template Engine.md",
     "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
-    "Documentation/Div PHP Template Engine/Appendixes.md",
-    "Documentation/Div PHP Template Engine/Mechanisms/Templates inheritance.md",
-    "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md",
-    "Documentation/Div PHP Template Engine/Mechanisms/Components.md",
-    "Documentation/Div PHP Template Engine/Introduction/Reasons.md",
-    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the programmer.md",
-    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the designer.md",
-    "humans.txt",
+    "Documentation/Div PHP ORM",
+    "Documentation/Div PHP Matrix",
     "New folder",
+    "humans.txt",
     "Tools",
     "Videos",
     "Blog/images",

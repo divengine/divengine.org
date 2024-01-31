@@ -1,3 +1,6 @@
+---
+icon: FarBookmark
+---
 ​![[Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png]]
 
 Let's kick off with a simple yet powerful use case of the `cop` function within [[Div PHP Template Engine|Div PHP Template Engine]]. Consider a straightforward scenario where you have two PHP arrays, and you want to effortlessly copy data from one to another.

@@ -1,0 +1,86 @@
+Serving /lib/styles/obsidian.css as text/plain
+Serving /lib/styles/other-plugins.css as text/plain
+Serving /lib/styles/snippets.css as application/octet-stream
+Serving /lib/styles/global-variable-styles.css as text/plain
+Serving /lib/styles/supported-plugins.css as application/octet-stream
+Serving /lib/styles/main-styles.css as text/plain
+Serving /lib/styles/theme.css as application/octet-stream
+Serving /lib/scripts/graph-view.js as text/plain
+Serving /lib/scripts/webpage.js as text/plain
+Serving /blog/images/populate-from-json-using-the-compose-object-properties-function-of-div-php-template-engine.png as image/png
+Serving /lib/scripts/graph-wasm.js as text/plain
+Serving /lib/scripts/graph-render-worker.js as text/plain
+Serving /lib/scripts/tinycolor.js as text/plain
+Serving /lib/scripts/pixi.js as text/plain
+Serving /lib/scripts/graph-data.js as text/plain
+Serving /lib/html/custom-head-content.html as text/html
+Serving /lib/html/file-tree.html as text/plain
+Serving /lib/scripts/graph-wasm.wasm as application/octet-stream
+Serving /lib/media/favicon.png as image/png
+Serving /lib/search-index.json as application/json
+2024-01-31 01:24:07 -Serving /lib/styles/obsidian.css as text/plain
+2024-01-31 01:24:07 -Serving /lib/styles/other-plugins.css as text/plain
+2024-01-31 01:24:07 -Serving /lib/styles/snippets.css as application/octet-stream
+2024-01-31 01:24:07 -Serving /lib/styles/global-variable-styles.css as text/plain
+2024-01-31 01:24:07 -Serving /lib/styles/main-styles.css as text/plain
+2024-01-31 01:24:07 -Serving /lib/styles/supported-plugins.css as application/octet-stream
+2024-01-31 01:24:07 -Serving /lib/styles/theme.css as application/octet-stream
+2024-01-31 01:24:07 -Serving /lib/scripts/graph-view.js as application/javascript
+2024-01-31 01:24:07 -Serving /lib/scripts/webpage.js as application/javascript
+2024-01-31 01:24:08 -Serving /blog/images/populate-from-json-using-the-compose-object-properties-function-of-div-php-template-engine.png as image/png
+2024-01-31 01:24:08 -Serving /lib/html/custom-head-content.html as text/html
+2024-01-31 01:24:08 -Serving /lib/scripts/graph-data.js as application/javascript
+2024-01-31 01:24:08 -Serving /lib/scripts/pixi.js as application/javascript
+2024-01-31 01:24:08 -Serving /lib/scripts/tinycolor.js as application/javascript
+2024-01-31 01:24:08 -Serving /lib/scripts/graph-render-worker.js as application/javascript
+2024-01-31 01:24:08 -Serving /lib/scripts/graph-wasm.js as application/javascript
+2024-01-31 01:24:08 -Serving /lib/html/file-tree.html as text/plain
+2024-01-31 01:24:08 -Serving /lib/scripts/graph-wasm.wasm as application/octet-stream
+2024-01-31 01:24:18 -Serving /lib/media/favicon.png as image/png
+2024-01-31 01:24:18 -Serving /lib/scripts/graph-render-worker.js as application/javascript
+2024-01-31 01:24:22 -Serving /lib/search-index.json as application/json
+2024-01-31 01:24:25 -Serving /lib/scripts/tinycolor.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/styles/obsidian.css as text/css
+2024-01-31 01:24:52 -Serving /lib/styles/other-plugins.css as text/css
+2024-01-31 01:24:52 -Serving /lib/styles/snippets.css as text/css
+2024-01-31 01:24:52 -Serving /lib/styles/global-variable-styles.css as text/css
+2024-01-31 01:24:52 -Serving /lib/styles/supported-plugins.css as text/css
+2024-01-31 01:24:52 -Serving /lib/styles/main-styles.css as text/css
+2024-01-31 01:24:52 -Serving /lib/styles/theme.css as text/css
+2024-01-31 01:24:52 -Serving /lib/scripts/graph-view.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/scripts/webpage.js as application/javascript
+2024-01-31 01:24:52 -Serving /blog/images/populate-from-json-using-the-compose-object-properties-function-of-div-php-template-engine.png as image/png
+2024-01-31 01:24:52 -Serving /lib/scripts/graph-wasm.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/scripts/graph-render-worker.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/scripts/tinycolor.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/scripts/pixi.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/scripts/graph-data.js as application/javascript
+2024-01-31 01:24:52 -Serving /lib/html/custom-head-content.html as text/html
+2024-01-31 01:24:52 -Serving /lib/html/file-tree.html as text/plain
+2024-01-31 01:24:53 -Serving /lib/scripts/graph-wasm.wasm as application/octet-stream
+2024-01-31 01:24:58 -Serving /lib/media/favicon.png as image/png
+2024-01-31 01:24:58 -Serving /lib/scripts/graph-render-worker.js as application/javascript
+2024-01-31 01:25:01 -Serving /lib/scripts/tinycolor.js as application/javascript
+2024-01-31 01:25:15 -Serving /lib/search-index.json as application/json
+2024-01-31 01:27:38 -Serving /lib/styles/obsidian.css as text/css
+2024-01-31 01:27:38 -Serving /lib/styles/other-plugins.css as text/css
+2024-01-31 01:27:38 -Serving /lib/styles/snippets.css as text/css
+2024-01-31 01:27:38 -Serving /lib/styles/global-variable-styles.css as text/css
+2024-01-31 01:27:38 -Serving /lib/styles/supported-plugins.css as text/css
+2024-01-31 01:27:38 -Serving /lib/styles/main-styles.css as text/css
+2024-01-31 01:27:39 -Serving /lib/styles/theme.css as text/css
+2024-01-31 01:27:39 -Serving /lib/scripts/graph-view.js as application/javascript
+2024-01-31 01:27:39 -Serving /lib/scripts/webpage.js as application/javascript
+2024-01-31 01:27:39 -Serving /blog/images/populate-from-json-using-the-compose-object-properties-function-of-div-php-template-engine.png as image/png
+2024-01-31 01:27:39 -Serving /lib/scripts/graph-wasm.js as application/javascript
+2024-01-31 01:27:39 -Serving /lib/scripts/graph-render-worker.js as application/javascript
+2024-01-31 01:27:39 -Serving /lib/scripts/tinycolor.js as application/javascript
+2024-01-31 01:27:40 -Serving /lib/scripts/pixi.js as application/javascript
+2024-01-31 01:27:40 -Serving /lib/scripts/graph-data.js as application/javascript
+2024-01-31 01:27:40 -Serving /lib/html/custom-head-content.html as text/html
+2024-01-31 01:27:40 -Serving /lib/html/file-tree.html as text/plain
+2024-01-31 01:27:40 -Serving /lib/scripts/graph-wasm.wasm as application/octet-stream
+2024-01-31 01:27:52 -Serving /lib/media/favicon.png as image/png
+2024-01-31 01:27:52 -Serving /lib/scripts/graph-render-worker.js as application/javascript
+2024-01-31 01:27:54 -Serving /lib/scripts/tinycolor.js as application/javascript
+2024-01-31 01:27:54 -Serving /lib/search-index.json as application/json

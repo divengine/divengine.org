@@ -1,0 +1,22 @@
+{
+  "name": "divengine/ways",
+  "license": "GPL-3.0-or-later",
+  "description": "Div PHP Ways",
+  "keywords": [
+    "routing",
+    "flow control",
+    "mvc",
+    "controllers"
+  ],
+  "homepage": "https://divengine.com/ways",
+  "version": "2.4.1",
+  "require": {
+    "php": ">=5.4.0",
+    "ext-json": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "divengine\\": "src/"
+    }
+  }
+}
