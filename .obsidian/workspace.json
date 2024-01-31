@@ -11,8 +11,15 @@
             "id": "8b8af81c974f3341",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Welcome.canvas",
+                "viewState": {
+                  "x": -1540,
+                  "y": -1069.5,
+                  "zoom": 0
+                }
+              }
             }
           }
         ]
@@ -81,6 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +127,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.canvas"
+              }
             }
           }
         ]
@@ -142,13 +153,6 @@
   },
   "active": "8b8af81c974f3341",
   "lastOpenFiles": [
-    "Documentation/Div PHP Enum Solution/Example of Div PHP Enum.md",
-    "Documentation/Div PHP Enum Solution/Div PHP Enum Solution.md",
-    "Documentation/Div PHP Enum Solution/Analogy with Java.md",
-    "Documentation/Div PHP Ajax Mapping/Div PHP Ajax Mapping.md",
-    "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md",
-    "Blog/Blog.md",
-    "Welcome.canvas",
     "Videos/Videos.md",
     "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md",
     "Tools/Tools.md",
@@ -169,6 +173,15 @@
     "Documentation/Div PHP Template Engine/Ignore specific variables (the third parameter of constructor).md",
     "Documentation/Div PHP Template Engine/Features of Div PHP Template Engine.md",
     "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
+    "Documentation/Div PHP Template Engine/Appendixes.md",
+    "Documentation/Div PHP Template Engine/Mechanisms/Templates inheritance.md",
+    "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md",
+    "Documentation/Div PHP Template Engine/Mechanisms/Components.md",
+    "Documentation/Div PHP Template Engine/Introduction/Reasons.md",
+    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the programmer.md",
+    "Welcome.canvas",
+    "Documentation/Div PHP Matrix/Features",
+    "Blog/images/Div PHP Ways Overview.png",
     "Documentation/Div PHP ORM",
     "Documentation/Div PHP Matrix",
     "New folder",
@@ -178,7 +191,6 @@
     "Blog/images",
     "Blog/images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
     "Documentation",
-    "Blog",
-    "Documentation/Div PHP Template Engine"
+    "Blog"
   ]
 }

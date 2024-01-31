@@ -1,4 +1,4 @@
-![[Pasted image 20240128105838.png]]
+![[Div PHP Ways Overview.png]]
 A "way" is different to a "route". We need a path for found a specific resource, but we need a way for do something. This library follow this concept when implements the routing and control of PHP application.
 
 Ways is a class that adapts the concept of SOA to the architecture of a PHP application, and tries to integrate the parts of a hybrid system.

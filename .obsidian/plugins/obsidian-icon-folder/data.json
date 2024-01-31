@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasGears",
       "FarImage",
       "FarBookmark",
       "FasFileVideo",
-      "FasBook",
-      "FasBlog"
+      "FasBook"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -49,5 +49,6 @@
   "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md": "FasFileVideo",
   "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md": "FarBookmark",
   "Blog/images": "FarImage",
-  "Blog/Blog.md": "FasBlog"
+  "Blog/Blog.md": "FasBlog",
+  "Tools/Tools.md": "FasGears"
 }
