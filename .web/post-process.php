@@ -5,7 +5,7 @@ function agregarGoogleAnalytics($ruta) {
     $contenido = file_get_contents($ruta);
 
     // Verifica si la etiqueta </head> está presente
-    if (strpos($contenido, '</head>') !== false && strpos($contenido, 'G-T7XEVFZK6N') === false) {
+    if (strpos($contenido, '</head>') !== false && strpos($contenido, 'G-7EDBCRWMKM') === false) {
         // Agrega el código de Google Analytics antes de la etiqueta </head>
         $codigoAnalytics = "
             <script src=\"https://www.googletagmanager.com/gtag/js?id=G-7EDBCRWMKM\"></script>
