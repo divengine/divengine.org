@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00675d77f0c55ab7",
+        "id": "ab0069d90c593fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "8b8af81c974f3341",
+            "id": "5e48e044f059a6fe",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Welcome.canvas",
-                "viewState": {
-                  "x": -1540,
-                  "y": -1069.5,
-                  "zoom": 0
-                }
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
               }
             }
           }
@@ -88,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.canvas",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.canvas",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.canvas"
+                "file": "index.md"
               }
             }
           }
@@ -141,23 +139,21 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "8b8af81c974f3341",
+  "active": "5e48e044f059a6fe",
   "lastOpenFiles": [
     "Videos/Videos.md",
-    "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md",
-    "Tools/Tools.md",
+    "Videos/Div PHP Matrix - Basic features.md",
     "Tools/Dialector.md",
-    "Documentation/Documentation.md",
     "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md",
     "Documentation/Div PHP Ways/Getting started.md",
     "Documentation/Div PHP Ways/Get controller properties.md",
@@ -167,18 +163,20 @@
     "Documentation/Div PHP Template Engine/The div class.md",
     "Documentation/Div PHP Template Engine/The best practices.md",
     "Documentation/Div PHP Template Engine/Template Engine Features.md",
+    "Documentation/Div PHP Template Engine/Noteworthy Issues.md",
     "Documentation/Div PHP Template Engine/Methods's reference.md",
     "Documentation/Div PHP Template Engine/Mechanisms.md",
     "Documentation/Div PHP Template Engine/Introduction to Div PHP Template Engine.md",
     "Documentation/Div PHP Template Engine/Ignore specific variables (the third parameter of constructor).md",
-    "Documentation/Div PHP Template Engine/Features of Div PHP Template Engine.md",
     "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
     "Documentation/Div PHP Template Engine/Appendixes.md",
-    "Documentation/Div PHP Template Engine/Mechanisms/Templates inheritance.md",
     "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md",
     "Documentation/Div PHP Template Engine/Mechanisms/Components.md",
     "Documentation/Div PHP Template Engine/Introduction/Reasons.md",
     "Documentation/Div PHP Template Engine/Introduction/Possibilities for the programmer.md",
+    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the designer.md",
+    "Documentation/Div PHP Template Engine/Features/Variables (information, content...).md",
+    "Documentation/Div PHP Template Engine/Features/Variable's modifiers.md",
     "Welcome.canvas",
     "Documentation/Div PHP Matrix/Features",
     "Blog/images/Div PHP Ways Overview.png",

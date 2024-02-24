@@ -1,9 +1,0 @@
-{
-	"nodes":[
-		{"id":"b204be3a55d5b767","type":"file","file":"Blog/Blog.md","x":-1960,"y":-1280,"width":400,"height":240,"color":"5"},
-		{"id":"d8c4d8126d9fe02c","type":"file","file":"Tools/Tools.md","x":-1960,"y":-999,"width":400,"height":160,"color":"4"},
-		{"id":"002196da89563364","type":"file","file":"Documentation/Documentation.md","x":-1520,"y":-1300,"width":400,"height":280,"color":"#656161"},
-		{"id":"3267152a41a30b0f","type":"file","file":"Videos/Videos.md","x":-1520,"y":-985,"width":400,"height":133,"color":"2"}
-	],
-	"edges":[]
-}
