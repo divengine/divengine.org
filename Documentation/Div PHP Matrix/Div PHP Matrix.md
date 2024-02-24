@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divengine&repo=matrix&show_owner=true&rand=23)](https://github.com/anuraghazra/github-readme-stats)
 This dynamic matrix manipulation class in PHP goes beyond conventional operations, offering dynamic calculations and diverse output formats for versatile applications.
 
 It introduces a layer of dynamic logic where cells execute functions, allowing for flexible backend logic. The true power lies in crafting robust backend logic, akin to spreadsheet functionalities tailored for web development. Automatic recalculation is notable, but its strength lies in facilitating complex business logic.

@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divengine&repo=enum&show_owner=true&rand=23)](https://github.com/anuraghazra/github-readme-stats)
 This is a PHP Enum Solution using classes and type hinting. **Also you can build a taxonomies of enums!**
 
 An enumeration type, "enum" for short, is a data type to categorise named values. Enums can be used instead of hard coded strings to represent, for example, the status of a blog post in a structured and typed way.

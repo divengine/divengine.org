@@ -46,7 +46,12 @@
   "exportPath": "D:\\\\workspace\\divengine\\Divengine Open Source\\.web\\public",
   "filesToExport": [
     [
-      "all"
+      "Blog/Blog.md",
+      "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md",
+      "Documentation",
+      "Tools",
+      "Videos",
+      "index.md"
     ]
   ]
 }

@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FarStar",
+      "FabYoutube",
+      "FasVideo",
       "FasGears",
-      "FarImage",
-      "FarBookmark",
-      "FasFileVideo",
-      "FasBook"
+      "FarImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -36,7 +36,7 @@
     "iconIdentifier": ":"
   },
   "Documentation/Documentation.md": "FabReadme",
-  "Videos": "FasVideo",
+  "Videos": "FabYoutube",
   "Tools": "FasGear",
   "Documentation": "FabReadme",
   "Blog": "FasBlog",
@@ -50,5 +50,8 @@
   "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md": "FarBookmark",
   "Blog/images": "FarImage",
   "Blog/Blog.md": "FasBlog",
-  "Tools/Tools.md": "FasGears"
+  "Tools/Tools.md": "FasGears",
+  "Videos/Div PHP Matrix - Basic features.md": "FasVideo",
+  "Videos/Videos.md": "FabYoutube",
+  "index.md": "FarStar"
 }

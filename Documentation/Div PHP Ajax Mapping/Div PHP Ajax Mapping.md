@@ -1,3 +1,4 @@
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=divengine&repo=ajaxmap&show_owner=true&rand=23)](https://github.com/anuraghazra/github-readme-stats)
 Library for JavaScript and PHP, that allow mapping the PHP functions, static methods of classes and arbitrary data. This class provides a simpler solution to return registered data without having to register a specific function.
 
 Mapping PHP data, functions and methods in JavaScript
