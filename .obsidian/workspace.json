@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6483711d34670acd",
+        "id": "88648f5a1b118027",
         "type": "tabs",
         "children": [
           {
-            "id": "cc4b2b5a559513cd",
+            "id": "7355c000944132ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "index.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,9 +139,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cc4b2b5a559513cd",
+  "active": "7355c000944132ec",
   "lastOpenFiles": [
     "index.md",
+    "Documentation/Div PHP ORM/Div PHP ORM.md",
     "Tools/Dialector.md",
     "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md",
     "Documentation/Div PHP Ways/Getting started.md",
@@ -175,7 +167,6 @@
     "Documentation/Div PHP Template Engine/Features/The __toString magic method.md",
     "Documentation/Div PHP Template Engine/Features/Template's variables.md",
     "Documentation/Div PHP Template Engine/Features/Template's properties.md",
-    "Documentation/Div PHP Template Engine/Features/Template's documentation.md",
     "images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
     "images/Div PHP Ways Overview.png",
     "Welcome.canvas",

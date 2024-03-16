@@ -3,31 +3,13 @@
     "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
-    "emojiStyle": "none",
+    "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "FabReadme",
-      "FarStar",
-      "FabYoutube",
-      "FasVideo",
-      "FasGears"
+      "😀"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [
-      {
-        "rule": "Documentation",
-        "icon": "FabReadme",
-        "for": "files",
-        "order": 0,
-        "useFilePath": true
-      },
-      {
-        "rule": "Documentation",
-        "icon": "FarBookmark",
-        "for": "everything",
-        "order": 1
-      }
-    ],
+    "rules": [],
     "extraMargin": {
       "top": 0,
       "right": 4,
@@ -37,24 +19,8 @@
     "iconInTabsEnabled": false,
     "iconInTitleEnabled": false,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": true,
+    "iconsBackgroundCheckEnabled": false,
     "iconsInNotesEnabled": true,
     "iconIdentifier": ":"
-  },
-  "Documentation/Documentation.md": "FabReadme",
-  "Videos": "FabYoutube",
-  "Tools": "FasGear",
-  "Documentation": "FabReadme",
-  "Documentation/Div PHP Template Engine": "FasBook",
-  "Documentation/Div PHP ORM": "FasBook",
-  "Documentation/Div PHP Matrix": "FasBook",
-  "Documentation/Div PHP Enum Solution": "FasBook",
-  "Documentation/Div PHP Ajax Mapping": "FasBook",
-  "Documentation/Div PHP Ways": "FasBook",
-  "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md": "FasFileVideo",
-  "Tools/Tools.md": "FasGears",
-  "Videos/Div PHP Matrix - Basic features.md": "FasVideo",
-  "Videos/Videos.md": "FabYoutube",
-  "index.md": "FarStar",
-  "Documentation/Div PHP Ways/Call a static method.md": "FabReadme"
+  }
 }
