@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0069d90c593fdd",
+        "id": "6483711d34670acd",
         "type": "tabs",
         "children": [
           {
-            "id": "5e48e044f059a6fe",
+            "id": "cc4b2b5a559513cd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +118,14 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,11 +135,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e48e044f059a6fe",
+  "active": "cc4b2b5a559513cd",
   "lastOpenFiles": [
     "index.md",
     "Tools/Dialector.md",
@@ -157,7 +147,6 @@
     "Documentation/Div PHP Ways/Getting started.md",
     "Documentation/Div PHP Ways/Div PHP Ways.md",
     "Documentation/Div PHP Ways/CLI app.md",
-    "Documentation/Div PHP Ways/Call a static method.md",
     "Documentation/Div PHP Template Engine/The div class.md",
     "Documentation/Div PHP Template Engine/The best practices.md",
     "Documentation/Div PHP Template Engine/Template Engine Features.md",
@@ -165,7 +154,6 @@
     "Documentation/Div PHP Template Engine/Methods's reference.md",
     "Documentation/Div PHP Template Engine/Mechanisms.md",
     "Documentation/Div PHP Template Engine/Introduction to Div PHP Template Engine.md",
-    "Documentation/Div PHP Template Engine/Ignore specific variables (the third parameter of constructor).md",
     "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
     "Documentation/Div PHP Template Engine/Appendixes.md",
     "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md",
@@ -177,8 +165,10 @@
     "Documentation/Div PHP Template Engine/Features/Understanding the syntax.md",
     "Documentation/Div PHP Template Engine/Features/The __toString magic method.md",
     "Documentation/Div PHP Template Engine/Features/Template's variables.md",
-    "Blog/images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
-    "Blog/images/Div PHP Ways Overview.png",
+    "Documentation/Div PHP Template Engine/Features/Template's properties.md",
+    "Documentation/Div PHP Template Engine/Features/Template's documentation.md",
+    "images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
+    "images/Div PHP Ways Overview.png",
     "Welcome.canvas",
     "Documentation/Div PHP Matrix/Features",
     "Documentation/Div PHP ORM",
@@ -187,7 +177,7 @@
     "humans.txt",
     "Tools",
     "Videos",
-    "Blog/images",
+    "images",
     "Documentation",
     "Blog"
   ]

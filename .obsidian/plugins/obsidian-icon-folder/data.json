@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabReadme",
       "FarStar",
       "FabYoutube",
       "FasVideo",
-      "FasGears",
-      "FarImage"
+      "FasGears"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [
@@ -20,6 +20,12 @@
         "for": "files",
         "order": 0,
         "useFilePath": true
+      },
+      {
+        "rule": "Documentation",
+        "icon": "FarBookmark",
+        "for": "everything",
+        "order": 1
       }
     ],
     "extraMargin": {
@@ -39,7 +45,6 @@
   "Videos": "FabYoutube",
   "Tools": "FasGear",
   "Documentation": "FabReadme",
-  "Blog": "FasBlog",
   "Documentation/Div PHP Template Engine": "FasBook",
   "Documentation/Div PHP ORM": "FasBook",
   "Documentation/Div PHP Matrix": "FasBook",
@@ -47,11 +52,9 @@
   "Documentation/Div PHP Ajax Mapping": "FasBook",
   "Documentation/Div PHP Ways": "FasBook",
   "Videos/Div Software Solutions - PHP - Div + Ways - Jul 2019 (preview).md": "FasFileVideo",
-  "Blog/Data Composition Made Easy with cop in Div PHP Template Engine.md": "FarBookmark",
-  "Blog/images": "FarImage",
-  "Blog/Blog.md": "FasBlog",
   "Tools/Tools.md": "FasGears",
   "Videos/Div PHP Matrix - Basic features.md": "FasVideo",
   "Videos/Videos.md": "FabYoutube",
-  "index.md": "FarStar"
+  "index.md": "FarStar",
+  "Documentation/Div PHP Ways/Call a static method.md": "FabReadme"
 }
