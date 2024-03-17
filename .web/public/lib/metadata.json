@@ -1,6 +1,6 @@
 {
   "vaultName": "Divengine Open Source",
-  "lastExport": 1710641421032,
+  "lastExport": 1710643351630,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-light show-inline-title",
   "useCustomHeadContent": true,
@@ -210,319 +210,319 @@
   ],
   "fileInfo": {
     "Documentation/Div PHP Ajax Mapping/Div PHP Ajax Mapping.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1508,
       "exportedPath": "documentation/div-php-ajax-mapping/div-php-ajax-mapping.html",
       "dependencies": []
     },
     "Documentation/Div PHP Enum Solution/Analogy with Java.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2566,
       "exportedPath": "documentation/div-php-enum-solution/analogy-with-java.html",
       "dependencies": []
     },
     "Documentation/Div PHP Enum Solution/Div PHP Enum Solution.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2657,
       "exportedPath": "documentation/div-php-enum-solution/div-php-enum-solution.html",
       "dependencies": []
     },
     "Documentation/Div PHP Enum Solution/Example of Div PHP Enum.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1885,
       "exportedPath": "documentation/div-php-enum-solution/example-of-div-php-enum.html",
       "dependencies": []
     },
     "Documentation/Div PHP Matrix/Features/Simple matrix.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 286,
       "exportedPath": "documentation/div-php-matrix/features/simple-matrix.html",
       "dependencies": []
     },
     "Documentation/Div PHP Matrix/Div PHP Matrix.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1729,
       "exportedPath": "documentation/div-php-matrix/div-php-matrix.html",
       "dependencies": []
     },
     "Documentation/Div PHP Matrix/Getting started.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 58,
       "exportedPath": "documentation/div-php-matrix/getting-started.html",
       "dependencies": []
     },
     "Documentation/Div PHP Matrix/Matrix features.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 17,
       "exportedPath": "documentation/div-php-matrix/matrix-features.html",
       "dependencies": []
     },
     "Documentation/Div PHP ORM/Div PHP ORM.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1753,
       "exportedPath": "documentation/div-php-orm/div-php-orm.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Appendixes/Appendix A - Allowed PHP functions.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 12877,
       "exportedPath": "documentation/div-php-template-engine/appendixes/appendix-a-allowed-php-functions.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Appendixes/Appendix B - Comparison of syntax of Smarty and Div.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 613,
       "exportedPath": "documentation/div-php-template-engine/appendixes/appendix-b-comparison-of-syntax-of-smarty-and-div.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Aggregate functions.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1708,
       "exportedPath": "documentation/div-php-template-engine/features/aggregate-functions.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Capsules.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 737,
       "exportedPath": "documentation/div-php-template-engine/features/capsules.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Comments.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 315,
       "exportedPath": "documentation/div-php-template-engine/features/comments.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Conditional parts.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1778,
       "exportedPath": "documentation/div-php-template-engine/features/conditional-parts.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Conditions.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1859,
       "exportedPath": "documentation/div-php-template-engine/features/conditions.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Content like an object (intelligent data).md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2155,
       "exportedPath": "documentation/div-php-template-engine/features/content-like-an-object-(intelligent-data).html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Custom modifiers.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 769,
       "exportedPath": "documentation/div-php-template-engine/features/custom-modifiers.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Data formats.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1123,
       "exportedPath": "documentation/div-php-template-engine/features/data-formats.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Default replacement for a variable.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 271,
       "exportedPath": "documentation/div-php-template-engine/features/default-replacement-for-a-variable.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Default replacements.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 540,
       "exportedPath": "documentation/div-php-template-engine/features/default-replacements.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Dialect translator.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 631,
       "exportedPath": "documentation/div-php-template-engine/features/dialect-translator.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Dialects.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 4995,
       "exportedPath": "documentation/div-php-template-engine/features/dialects.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Dynamic vars inside a loop.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 600,
       "exportedPath": "documentation/div-php-template-engine/features/dynamic-vars-inside-a-loop.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Formulas.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 631,
       "exportedPath": "documentation/div-php-template-engine/features/formulas.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Friendly tags.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 517,
       "exportedPath": "documentation/div-php-template-engine/features/friendly-tags.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Global vars.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 501,
       "exportedPath": "documentation/div-php-template-engine/features/global-vars.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Hooks.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 773,
       "exportedPath": "documentation/div-php-template-engine/features/hooks.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/HTML to plain text.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 206,
       "exportedPath": "documentation/div-php-template-engine/features/html-to-plain-text.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Ignored parts (escaping Div parsing).md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 331,
       "exportedPath": "documentation/div-php-template-engine/features/ignored-parts-(escaping-div-parsing).html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Including another templates.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 478,
       "exportedPath": "documentation/div-php-template-engine/features/including-another-templates.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Including pre-processed templates.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 607,
       "exportedPath": "documentation/div-php-template-engine/features/including-pre-processed-templates.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Iterations.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 519,
       "exportedPath": "documentation/div-php-template-engine/features/iterations.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Lists (loops).md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 629,
       "exportedPath": "documentation/div-php-template-engine/features/lists-(loops).html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Locations.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1308,
       "exportedPath": "documentation/div-php-template-engine/features/locations.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Macros.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2001,
       "exportedPath": "documentation/div-php-template-engine/features/macros.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Multi replacements.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 859,
       "exportedPath": "documentation/div-php-template-engine/features/multi-replacements.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Multiple dialects.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 941,
       "exportedPath": "documentation/div-php-template-engine/features/multiple-dialects.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Multiple variable's modifiers.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 232,
       "exportedPath": "documentation/div-php-template-engine/features/multiple-variable's-modifiers.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Object Oriented Programming.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1738,
       "exportedPath": "documentation/div-php-template-engine/features/object-oriented-programming.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Pre-defined sub-parsers.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 217,
       "exportedPath": "documentation/div-php-template-engine/features/pre-defined-sub-parsers.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Simple replacements.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 763,
       "exportedPath": "documentation/div-php-template-engine/features/simple-replacements.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Special replacements.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 355,
       "exportedPath": "documentation/div-php-template-engine/features/special-replacements.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/String's dissection.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 635,
       "exportedPath": "documentation/div-php-template-engine/features/string's-dissection.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Strip or clean the resulting code.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 350,
       "exportedPath": "documentation/div-php-template-engine/features/strip-or-clean-the-resulting-code.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Sub-parser's events.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 754,
       "exportedPath": "documentation/div-php-template-engine/features/sub-parser's-events.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Sub-parsers.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 3130,
       "exportedPath": "documentation/div-php-template-engine/features/sub-parsers.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/System vars.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1570,
       "exportedPath": "documentation/div-php-template-engine/features/system-vars.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Template's documentation.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2966,
       "exportedPath": "documentation/div-php-template-engine/features/template's-documentation.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Template's properties.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 494,
       "exportedPath": "documentation/div-php-template-engine/features/template's-properties.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Template's variables.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2859,
       "exportedPath": "documentation/div-php-template-engine/features/template's-variables.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/The __toString magic method.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1892,
       "exportedPath": "documentation/div-php-template-engine/features/the-__tostring-magic-method.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Understanding the syntax.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2698,
       "exportedPath": "documentation/div-php-template-engine/features/understanding-the-syntax.html",
       "dependencies": [
@@ -533,175 +533,175 @@
       ]
     },
     "Documentation/Div PHP Template Engine/Features/Variable's modifiers.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 3008,
       "exportedPath": "documentation/div-php-template-engine/features/variable's-modifiers.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Features/Variables (information, content...).md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1093,
       "exportedPath": "documentation/div-php-template-engine/features/variables-(information,-content...).html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/images/Pasted image 20240128115015.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2296,
       "exportedPath": "documentation/div-php-template-engine/images/pasted-image-20240128115015.png",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/images/Pasted image 20240128115039.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2124,
       "exportedPath": "documentation/div-php-template-engine/images/pasted-image-20240128115039.png",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/images/Pasted image 20240128115057.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 5305,
       "exportedPath": "documentation/div-php-template-engine/images/pasted-image-20240128115057.png",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/images/Pasted image 20240128115123.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 7030,
       "exportedPath": "documentation/div-php-template-engine/images/pasted-image-20240128115123.png",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Introduction/Goals.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 209,
       "exportedPath": "documentation/div-php-template-engine/introduction/goals.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Introduction/Possibilities for the designer.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1372,
       "exportedPath": "documentation/div-php-template-engine/introduction/possibilities-for-the-designer.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Introduction/Possibilities for the programmer.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 533,
       "exportedPath": "documentation/div-php-template-engine/introduction/possibilities-for-the-programmer.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Introduction/Reasons.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1396,
       "exportedPath": "documentation/div-php-template-engine/introduction/reasons.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Mechanisms/Components.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1637,
       "exportedPath": "documentation/div-php-template-engine/mechanisms/components.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1268,
       "exportedPath": "documentation/div-php-template-engine/mechanisms/recursion.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Mechanisms/Templates inheritance.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2569,
       "exportedPath": "documentation/div-php-template-engine/mechanisms/templates-inheritance.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Appendixes.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 95,
       "exportedPath": "documentation/div-php-template-engine/appendixes.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Div PHP Template Engine.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 547,
       "exportedPath": "documentation/div-php-template-engine/div-php-template-engine.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Ignore specific variables (the third parameter of constructor).md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 369,
       "exportedPath": "documentation/div-php-template-engine/ignore-specific-variables-(the-third-parameter-of-constructor).html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Introduction to Div PHP Template Engine.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2273,
       "exportedPath": "documentation/div-php-template-engine/introduction-to-div-php-template-engine.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Mechanisms.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 79,
       "exportedPath": "documentation/div-php-template-engine/mechanisms.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Methods's reference.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 3925,
       "exportedPath": "documentation/div-php-template-engine/methods's-reference.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Noteworthy Issues.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 337,
       "exportedPath": "documentation/div-php-template-engine/noteworthy-issues.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/Template Engine Features.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 700,
       "exportedPath": "documentation/div-php-template-engine/template-engine-features.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/The best practices.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1958,
       "exportedPath": "documentation/div-php-template-engine/the-best-practices.html",
       "dependencies": []
     },
     "Documentation/Div PHP Template Engine/The div class.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1092,
       "exportedPath": "documentation/div-php-template-engine/the-div-class.html",
       "dependencies": []
     },
     "Documentation/Div PHP Ways/Call a static method.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1359,
       "exportedPath": "documentation/div-php-ways/call-a-static-method.html",
       "dependencies": []
     },
     "Documentation/Div PHP Ways/CLI app.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 172,
       "exportedPath": "documentation/div-php-ways/cli-app.html",
       "dependencies": []
     },
     "Documentation/Div PHP Ways/Div PHP Ways.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 320,
       "exportedPath": "documentation/div-php-ways/div-php-ways.html",
       "dependencies": []
     },
     "Documentation/Div PHP Ways/Get controller properties.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 284,
       "exportedPath": "documentation/div-php-ways/get-controller-properties.html",
       "dependencies": []
     },
     "Documentation/Div PHP Ways/Getting started.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 580,
       "exportedPath": "documentation/div-php-ways/getting-started.html",
       "dependencies": []
     },
     "Documentation/Div PHP Ways/Introduction to Div PHP Ways.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1301,
       "exportedPath": "documentation/div-php-ways/introduction-to-div-php-ways.html",
       "dependencies": [
@@ -709,385 +709,385 @@
       ]
     },
     "Documentation/Documentation.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 167,
       "exportedPath": "documentation/documentation.html",
       "dependencies": []
     },
     "Tools/Dialector.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 222,
       "exportedPath": "tools/dialector.html",
       "dependencies": []
     },
     "Tools/Tools.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 38,
       "exportedPath": "tools/tools.html",
       "dependencies": []
     },
     "Videos/Div PHP Matrix - Basic features.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 632,
       "exportedPath": "videos/div-php-matrix-basic-features.html",
       "dependencies": []
     },
     "Videos/Videos.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 62,
       "exportedPath": "videos/videos.html",
       "dependencies": []
     },
     "index.md": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 280,
       "exportedPath": "index.html",
       "dependencies": []
     },
     "lib/media/pasted-image-20240128115015.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2296,
       "exportedPath": "lib/media/pasted-image-20240128115015.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240128115039.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 2124,
       "exportedPath": "lib/media/pasted-image-20240128115039.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240128115057.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 5305,
       "exportedPath": "lib/media/pasted-image-20240128115057.png",
       "dependencies": []
     },
     "lib/media/pasted-image-20240128115123.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 7030,
       "exportedPath": "lib/media/pasted-image-20240128115123.png",
       "dependencies": []
     },
     "lib/media/div-php-ways-overview.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 108682,
       "exportedPath": "lib/media/div-php-ways-overview.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 81619,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 1406,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 9493,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 157356,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/other-plugins.css": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 9143,
       "exportedPath": "lib/styles/other-plugins.css",
       "dependencies": []
     },
     "lib/styles/theme.css": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 41004,
       "exportedPath": "lib/styles/theme.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 236,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []
     },
     "lib/html/custom-head-content.html": {
-      "modifiedTime": 1710641421032,
+      "modifiedTime": 1710643351630,
       "sourceSize": 395,
       "exportedPath": "lib/html/custom-head-content.html",
       "dependencies": []
