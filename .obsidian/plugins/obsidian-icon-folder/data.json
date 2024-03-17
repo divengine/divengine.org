@@ -9,7 +9,22 @@
       "😀"
     ],
     "recentlyUsedIconsSize": 5,
-    "rules": [],
+    "rules": [
+      {
+        "rule": "Documentation",
+        "icon": "FasBook",
+        "for": "folders",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "rule": "Documentation",
+        "icon": "FasBookOpen",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      }
+    ],
     "extraMargin": {
       "top": 0,
       "right": 4,
