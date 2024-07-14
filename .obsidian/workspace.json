@@ -11,8 +11,13 @@
             "id": "7355c000944132ec",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.5
   },
   "right": {
     "id": "10924fbef42550a5",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,14 +125,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -141,7 +151,6 @@
   },
   "active": "7355c000944132ec",
   "lastOpenFiles": [
-    "index.md",
     "Videos/Videos.md",
     "Videos/Div PHP Matrix - Basic features.md",
     "Tools/Tools.md",
@@ -167,6 +176,7 @@
     "Documentation/Div PHP Template Engine/Introduction/Possibilities for the designer.md",
     "Documentation/Div PHP Template Engine/Features/Variables (information, content...).md",
     "Documentation/Div PHP Template Engine/Features/Understanding the syntax.md",
+    "Documentation/Div PHP Template Engine/Features/The __toString magic method.md",
     "images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
     "images/Div PHP Ways Overview.png",
     "Welcome.canvas",
