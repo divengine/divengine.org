@@ -2,4 +2,4 @@
 
 You can create infinite dialects for the template language of Div PHP Template Engine. This tool help you for this goal.
 
-[https://dialector.divengine.org](https://dialector.divengine.org/)
+[https://divengine.org/tools/dialector/index.html](https://divengine.org/tools/dialector)

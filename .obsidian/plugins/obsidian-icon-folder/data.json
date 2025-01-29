@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasBook",
       "😀"
     ],
     "recentlyUsedIconsSize": 5,
@@ -42,5 +43,6 @@
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
     "debugMode": false
-  }
+  },
+  "Documentation/Div PHP laze": "FasBook"
 }

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "88648f5a1b118027",
+        "id": "b6338d9b3b502e18",
         "type": "tabs",
         "children": [
           {
-            "id": "7355c000944132ec",
+            "id": "5685ec6ac6412077",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Documentation/Div PHP laze/Div PHP Laze.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 367.5
   },
   "right": {
     "id": "10924fbef42550a5",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Documentation/Div PHP laze/Div PHP Laze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Documentation/Div PHP laze/Div PHP Laze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "Documentation/Div PHP laze/Div PHP Laze.md"
               }
             }
           }
@@ -149,8 +149,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "7355c000944132ec",
+  "active": "5685ec6ac6412077",
   "lastOpenFiles": [
+    "Documentation/Div PHP laze/Installation.md",
+    "Documentation/Div PHP laze/Div PHP Laze.md",
+    "Documentation/Div PHP laze/Best practices.md",
+    "Documentation/Div PHP laze",
+    "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
+    "Documentation/Div PHP Template Engine/ChangeLog/CHANGELOG.md",
+    "Documentation/Div PHP Template Engine/ChangeLog/Untitled.md",
+    "Documentation/Div PHP Template Engine/ChangeLog/2023-01-26.md",
+    "Documentation/Div PHP Template Engine/ChangeLog",
+    "Documentation/Div PHP Template Engine/README.md",
+    "Documentation/Div PHP Template Engine/Method's reference.md",
+    "Documentation/Div PHP Template Engine/FUTURE.md",
+    "index.md",
     "Videos/Videos.md",
     "Videos/Div PHP Matrix - Basic features.md",
     "Tools/Tools.md",
@@ -164,19 +177,8 @@
     "Documentation/Div PHP Template Engine/The best practices.md",
     "Documentation/Div PHP Template Engine/Template Engine Features.md",
     "Documentation/Div PHP Template Engine/Noteworthy Issues.md",
-    "Documentation/Div PHP Template Engine/Methods's reference.md",
     "Documentation/Div PHP Template Engine/Mechanisms.md",
     "Documentation/Div PHP Template Engine/Introduction to Div PHP Template Engine.md",
-    "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
-    "Documentation/Div PHP Template Engine/Appendixes.md",
-    "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md",
-    "Documentation/Div PHP Template Engine/Mechanisms/Components.md",
-    "Documentation/Div PHP Template Engine/Introduction/Reasons.md",
-    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the programmer.md",
-    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the designer.md",
-    "Documentation/Div PHP Template Engine/Features/Variables (information, content...).md",
-    "Documentation/Div PHP Template Engine/Features/Understanding the syntax.md",
-    "Documentation/Div PHP Template Engine/Features/The __toString magic method.md",
     "images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
     "images/Div PHP Ways Overview.png",
     "Welcome.canvas",
@@ -187,8 +189,6 @@
     "humans.txt",
     "Tools",
     "Videos",
-    "images",
-    "Documentation",
-    "Blog"
+    "images"
   ]
 }
