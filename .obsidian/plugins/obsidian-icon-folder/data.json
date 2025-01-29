@@ -42,7 +42,9 @@
     "iconInFrontmatterFieldName": "icon",
     "iconColorInFrontmatterFieldName": "iconColor",
     "iconsInLinksEnabled": true,
-    "debugMode": false
+    "debugMode": false,
+    "lucideIconPackType": "native",
+    "useInternalPlugins": false
   },
-  "Documentation/Div PHP laze": "FasBook"
+  "Documentation/Div PHP Laze": "FasBook"
 }

@@ -4,20 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "b6338d9b3b502e18",
+        "id": "b8173522089a6391",
         "type": "tabs",
         "children": [
           {
-            "id": "5685ec6ac6412077",
+            "id": "5228578bf543b25a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Documentation/Div PHP laze/Div PHP Laze.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -40,7 +37,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +54,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -63,7 +64,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -86,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documentation/Div PHP laze/Div PHP Laze.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +96,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
@@ -103,10 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Documentation/Div PHP laze/Div PHP Laze.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
@@ -117,7 +122,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,9 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Documentation/Div PHP laze/Div PHP Laze.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
         ]
@@ -145,24 +152,12 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "5685ec6ac6412077",
+  "active": "5228578bf543b25a",
   "lastOpenFiles": [
-    "Documentation/Div PHP laze/Installation.md",
-    "Documentation/Div PHP laze/Div PHP Laze.md",
-    "Documentation/Div PHP laze/Best practices.md",
-    "Documentation/Div PHP laze",
-    "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
-    "Documentation/Div PHP Template Engine/ChangeLog/CHANGELOG.md",
-    "Documentation/Div PHP Template Engine/ChangeLog/Untitled.md",
-    "Documentation/Div PHP Template Engine/ChangeLog/2023-01-26.md",
-    "Documentation/Div PHP Template Engine/ChangeLog",
-    "Documentation/Div PHP Template Engine/README.md",
-    "Documentation/Div PHP Template Engine/Method's reference.md",
-    "Documentation/Div PHP Template Engine/FUTURE.md",
     "index.md",
     "Videos/Videos.md",
     "Videos/Div PHP Matrix - Basic features.md",
@@ -177,8 +172,20 @@
     "Documentation/Div PHP Template Engine/The best practices.md",
     "Documentation/Div PHP Template Engine/Template Engine Features.md",
     "Documentation/Div PHP Template Engine/Noteworthy Issues.md",
+    "Documentation/Div PHP Template Engine/Method's reference.md",
     "Documentation/Div PHP Template Engine/Mechanisms.md",
     "Documentation/Div PHP Template Engine/Introduction to Div PHP Template Engine.md",
+    "Documentation/Div PHP Template Engine/Ignore specific variables (the third parameter of constructor).md",
+    "Documentation/Div PHP Template Engine/Div PHP Template Engine.md",
+    "Documentation/Div PHP Template Engine/Appendixes.md",
+    "Documentation/Div PHP Template Engine/Mechanisms/Recursion.md",
+    "Documentation/Div PHP Template Engine/Mechanisms/Components.md",
+    "Documentation/Div PHP Template Engine/Introduction/Reasons.md",
+    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the programmer.md",
+    "Documentation/Div PHP Template Engine/Introduction/Possibilities for the designer.md",
+    "Documentation/Div PHP Template Engine/Features/Variables (information, content...).md",
+    "Documentation/Div PHP Laze",
+    "Documentation/Div PHP Template Engine/ChangeLog",
     "images/Populate from JSON using the  Compose Object Properties function  of Div PHP Template Engine.png",
     "images/Div PHP Ways Overview.png",
     "Welcome.canvas",
